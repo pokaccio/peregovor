@@ -427,3 +427,15 @@ button#create {
     border-radius: 4px;
     cursor: pointer;
 }
+.downloada{
+        display: inline-block;
+    vertical-align: middle;
+    margin-right: 20px;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+    background-color: #333;
+    padding: 0 20px;
+    border-radius: 4px;
+    cursor: pointer;}
+}
